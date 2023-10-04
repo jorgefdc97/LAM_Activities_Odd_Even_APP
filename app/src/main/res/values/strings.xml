@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Activities</string>
+    <string name="insertNumber">Insert a number</string>
+    <string name="oddEven">Odd or Even?</string>
+    <string name="odd">ODD</string>
+    <string name="even">EVEN</string>
+    <string name="goBack">Go back</string>
+</resources>
