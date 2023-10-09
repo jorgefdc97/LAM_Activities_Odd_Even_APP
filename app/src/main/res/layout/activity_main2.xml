@@ -23,6 +23,7 @@
         android:layout_width="168dp"
         android:layout_height="78dp"
         android:layout_marginTop="7dp"
+        android:onClick="onClick"
         android:text="@string/goBack"
         android:textSize="20dp"
         app:layout_constraintBottom_toBottomOf="parent"
